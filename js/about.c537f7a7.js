@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkwaidi_project"]=self["webpackChunkkwaidi_project"]||[]).push([[443],{413:function(e,n,r){r.r(n),r.d(n,{default:function(){return w}});var t=r(3396);function a(e,n,r,a,i,u){return(0,t.wg)(),(0,t.iD)("h1",null,"Chat View")}var i={name:"ChatView"},u=r(89);const c=(0,u.Z)(i,[["render",a]]);var w=c}}]);
+//# sourceMappingURL=about.c537f7a7.js.map
