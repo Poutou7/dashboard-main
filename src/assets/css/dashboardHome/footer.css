@@ -1,0 +1,39 @@
+
+footer .google-plus {
+  justify-content: center;
+  gap: 20px;
+  color: var(--bluelight-color);
+  transition: var(--transition);
+}
+footer .google-plus:hover {
+  box-shadow: 0 0 14px 4px rgb(58 194 203 / 60%);
+}
+footer .google-plus i {
+  font-size: 55px;
+}
+footer .google-plus p {
+  font-size: 24px;
+  padding: 40px 0;
+}
+
+footer .social {
+  color: var(--white-color);
+  font-size: 20px;
+}
+footer .social > div > span:last-of-type {
+  margin: 5px 0 30px;
+}
+footer .social > div div {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+footer .social .connect {
+  color: var(--second-blue-color);
+  font-size: 18px;
+  cursor: pointer;
+  transition: var(--transition);
+}
+footer .social .connect:hover {
+  color: #7af6fd;
+}
